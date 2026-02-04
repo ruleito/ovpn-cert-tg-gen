@@ -4,7 +4,7 @@
 
 # Что требуется перед использованием
 
-1. OpenVPN с действующей PKI (CA, server).
+1. OpenVPN с действующей PKI (CA, server). (https://github.com/angristan/openvpn-install)
 2. Telegram-бот и его токен (`BOT_TOKEN`).
 3. Telegram-чат/группа и их `CHAT_ID`.
 4. Настройки в `.env` по примеру из `.env.example` (токен, чат и др.). ([GitHub][2])
